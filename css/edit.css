@@ -1,4 +1,12 @@
 .header-13-sub .background {
-background-image: none;
-background-color: #111;
+	background-image: none;
+	background-color: #111;
 }
+
+.header-13-sub h3, .header-13-sub .lead, body { 
+	font-family: Georgia, Helvetica, Arial, sans-serif;
+}
+
+.btn-danger { background-color: #555; }
+
+.btn-danger:hover { background-color: #333; }
