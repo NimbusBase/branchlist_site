@@ -857,7 +857,7 @@ startupKit.uiKitContent.content28 = function() {};
 /* Content 29*/
 startupKit.uiKitContent.content29 = function() {};
 /* Content 30*/
-startupKit.uiKitContent.content30 = function() {
+/*startupKit.uiKitContent.content30 = function() {
 
     $(window).resize(function() {
         var boxes = $('.content-30 .col-sm-3');
@@ -872,7 +872,9 @@ startupKit.uiKitContent.content30 = function() {
         }
     });
 
-};
+}; */
+
+
 /* Content 31*/
 startupKit.uiKitContent.content31 = function() {
     (function(el) {
