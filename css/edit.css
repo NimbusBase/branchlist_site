@@ -18,3 +18,9 @@
 	padding-top: 50px;
 	padding-bottom: 0px;
 }
+
+.footer-14 { background: #111; }
+
+.footer-14 a:hover, .footer-14 a:focus, .footer-14 a.active {
+color: #eee;
+}
